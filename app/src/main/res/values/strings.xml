@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarVolumeK</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+</resources>
